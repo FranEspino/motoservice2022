@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "econotaxi-db003",
+  "private_key_id": "70bac3a229941653bf2f19ac3a7c76446fe206d9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCmuiKvy1rdmGYO\n1c6YemK4zSm26Ivin7+cgns2+pB2v6MTqvHkEzMFa08UTEjxrhUnpP4NYTNvquHe\njH02ctCt2BS3bUK7QqNJbVICaBX/vU4vRxLvZ+bePypaU4BSeZbH8q5DXzVFFVwa\nAjf5urGgm1YuxedeSgjSJUYEYJTJVkObLo+XQ5hVstVXRZurHvrm008Z0V0Q48jw\nxEv+9U2w/5sES/eBQmWhHTaLVuPwGGBP0utaZOD0uiI7FFImY3ewCkJhS2xoBpTR\nAfIxUKfVqP8VNg5A5V03RJHyRQsnazkodjh7oFgkXLj+ZTuTvVLxuDb/ikqteXiH\nQGeKjswrAgMBAAECggEACd+BTCMak39bVJ4q2Kx8Q4Ph6DMKjMlRKcQv5lHdk5Kf\nzK6os8ApTmhY3sa+Fd9TrfnSXsBDSsxC1ncMt4ucBoQ1uD9jN/I0Kvx3/BMZPmab\nUyeXz1wgd64kF9FuPc2o23Ibb+G0jPQJwYAhIj8A45X44aMv8ACQivU3GYcPBU8a\n0mzF1UVM438Iprl+0bgMAn5qgPtDfk02sRMVO1Sv0fEwlM+pGHLdiN7L7aXAn6f7\nAZsbgthEuM90huvHjg6T17Sql9tpj/fbYGbn+f/88kkn7PBQFpTY1iQqJ9mye0O1\n0mSMaM9/UuYS6mjv5OXYwjxdhmqqITbicBfuTpGYnQKBgQDbW3RozM1kwKQfZ8pl\n8SQi9INT3hALgs3y8cCdtTaS/7eLnWVy9QH3PnzmonU9QQ+yCWerjGGEeUPsUzjD\nN0EQjTe0n+ZHhGOIIUEK7+L7q3hY0+4s+VO93p0j36YU9QEMgDd9A2ro6qXIQk+e\nSQDc568P7YmGmhVsP7V1KzA6lQKBgQDClAQy8EbXivT2Nq+6QrSyCMcxG0AM6JMJ\nQ6NztgfLWLX7LWPlL0PDcz9CYKdY7LkmfSlgWsTFJ80QIS/FCRNvhxtpP9ddwGQa\niq0fQ+k2rYtNmYFVO0pkrAoFJIbWJ3O6GOFzzWNAOD5nO9BVA0ZLwDNYiAiAHUVz\nTAl3Qdf7vwKBgQCfdhpn3QorBgfJdNAjz2rvpkSaAUI0vAAvbiMSApwLvK2XZvJK\n4WVucRSnLM6Bmvxn9oJQqRpzDRydfdozv8Ui3SXzvpHOx6T7XwFDjCO7xGkWWeo4\n83829c/SNlErxvfeOI8d6BAeBgZCUEJE1Nk1vY77yzhAi16rdJza8mx7CQKBgB3l\nCeQdoHS7R7mQW11dpE96I8h6rFOPZA/XUYSUogvu/D60EZYDtgCQc1aqbOuvqx6r\nujCwoWy9Gbdxsdou88p90otQILGpvneJeOHF2E3rSezJOeKzclGXUQ7LNuAuPYyJ\nCBJ3qtkSCxxnRzHYh/NZe0oN1GiClsoJE6c7+YgXAoGAapxmvcV+sifUyCIb04Sc\n3JqN1+ESQrzTPJjh82D6y7nYSiN33euiAYmBrs1mXPFdS6tRczc+KFtX7e0YPTUG\neMCan6G12AclLpWBkheT+XGCBmPVGyxW6w7RAdIwRI+TSDtd6PWJ0blsJv8/ECs+\nTwPUx3CGlV+rabYCh+g8UOU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-obkau@econotaxi-db003.iam.gserviceaccount.com",
+  "client_id": "104170511329921546653",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-obkau%40econotaxi-db003.iam.gserviceaccount.com"
+}
